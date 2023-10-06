@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=07E_PreCharge.OutJob
+Name=
 Description=
 TargetOutputMedium=3DModel
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Samsung M332x 382x 402x Series Class Driver
+TargetPrinter=SEC30CDA7A28547
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Schematic&PCB
 OutputMedium1_Type=Publish
@@ -271,7 +271,7 @@ OutputFileNameMulti4==ProjectName+'-BOM'
 UseOutputNameForMulti4=0
 OutputFileNameSpecial4=
 OpenOutput4=1
-OutputFilePath5=C:\Users\polyueracing\Desktop\EEE\PCB\07E_EEE_PCB_Patrick\07E_PreCharge\Documents\
+OutputFilePath5=Documents\
 ReleaseManaged5=0
 OutputBasePath5=Documents\
 OutputPathMedia5=
@@ -310,9 +310,9 @@ OpenGerberOutput4=0
 OpenNCDrillOutput4=0
 OpenIPCOutput4=0
 EnableReload4=0
-RelativeOutputPath5=C:\Users\polyueracing\Desktop\EEE\PCB\07E_EEE_PCB_Patrick\07E_PreCharge\Documents\
+RelativeOutputPath5=Documents\
 OpenOutputs5=1
-AddToProject5=1
+AddToProject5=0
 TimestampFolder5=0
 UseOutputName5=0
 OpenODBOutput5=0
